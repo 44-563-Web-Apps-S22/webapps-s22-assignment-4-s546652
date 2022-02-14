@@ -1,0 +1,88 @@
+.speech {
+    font-size: 15px;
+    color: black;
+    font-family: "Times New Roman";
+}
+.direction {
+    font-size: 15px;
+    color: black;
+    background-color: lavender;
+    font-family: "Times New Roman";
+}
+.direction:hover {
+    background-color: #f0b5f5;
+    color: skyblue;
+}
+.name {
+    font-size: 15px;
+    color: black;
+    font-family: "Times New Roman";
+    margin: 1px;
+
+}
+/*h6.name {
+    margin-block: auto;
+}
+.Mme {
+    color: crimson;
+}
+.Elmire {
+    color:cornflowerblue;
+}
+.Dorine {
+    color:darkkhaki
+}*/
+.Orgon {
+    color:darkseagreen;
+}
+.Mariane{
+    color:darkgray;
+}
+table, th, td {
+    border:1px solid palevioletred;
+  }
+th, td {
+    text-align: center;
+    border: 1px solid #ae92e2;
+}
+table {
+    border: 1px solid white;
+}
+tbody tr:nth-child(odd) {
+    background-color: #f0b5f5;
+    margin: 2px;
+    padding: 2px;
+ }
+.hari {
+    margin: 2px;
+    padding-top: 1rem;
+}
+.playStyle {
+    font-style: italic;
+    font-size: 18px;
+    font-family: monospace;
+    border: 2px solid purple;
+}
+h6.name:hover {
+    border: 2px solid #ae92e2;
+    padding: 10px;
+    box-shadow: 9px 7px #ae92e2;
+}
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background-color: darkviolet;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    color: floralwhite;
+}
+ul.navbar-horizontal a:hover {
+    background-color: darkslateblue;
+    color:yellowgreen;
+}
