@@ -20,30 +20,24 @@
     margin: 1px;
 
 }
-/*h6.name {
-    margin-block: auto;
-}
-.Mme {
-    color: crimson;
-}
-.Elmire {
-    color:cornflowerblue;
-}
-.Dorine {
-    color:darkkhaki
-}*/
 .Orgon {
     color:darkseagreen;
 }
 .Mariane{
     color:darkgray;
 }
+.Dorine{
+    color:#f0b5f5;
+}
+
 table, th, td {
     border:1px solid palevioletred;
   }
 th, td {
     text-align: center;
     border: 1px solid #ae92e2;
+    padding: 2px;
+
 }
 table {
     border: 1px solid white;
@@ -53,7 +47,7 @@ tbody tr:nth-child(odd) {
     margin: 2px;
     padding: 2px;
  }
-.hari {
+.bodyStyle {
     margin: 2px;
     padding-top: 1rem;
 }
