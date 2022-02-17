@@ -61,6 +61,8 @@ h6.name:hover {
     border: 2px solid #ae92e2;
     padding: 10px;
     box-shadow: 9px 7px #ae92e2;
+    filter: blur(1px);
+
 }
 ul.navbar-horizontal {
     list-style-type: none;
@@ -79,4 +81,10 @@ ul.navbar-horizontal a {
 ul.navbar-horizontal a:hover {
     background-color: darkslateblue;
     color:yellowgreen;
+}
+.btsStyle{
+    padding: 2rem;
+    border: 2px solid purple;
+    margin: 2rem;
+    box-shadow: purple;
 }
